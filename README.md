@@ -41,7 +41,7 @@ cd Book-API
 $ npm install
 ```
 
-## Rodando a Aplicação Back-End
+<h2>Rodando a Aplicação Back-End</h2>
 
 ```bash
 # development
@@ -54,7 +54,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Rodando Testes Unitários
+<h2>Rodando Testes Unitários</h2>
 
 ```bash
 # unit tests
@@ -67,7 +67,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-# 🤝 Suporte 
+<h2>🤝 Suporte</h2> 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/Book-API/issues).
 
 # 👤 Autor
