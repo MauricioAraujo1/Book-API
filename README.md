@@ -24,7 +24,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [ ] [NodeJS]
 - [ ] [SQLite]
 
-<h3>🚀 Como executar o projeto</h3>
+<h2>🚀 Como executar o projeto</h2>
 
 <span class="pl-c"><span class="pl-c">#</span> Clone este repositório</span>
 
@@ -32,7 +32,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 https://github.com/MauricioAraujo1/Book-API.git
 ```
 
-<h3>🧭 Instalação</h3>
+<h2>🧭 Instalação</h2>
 
 <span class="pl-c"><span class="pl-c">#</span> Acesse a pasta do projeto no terminal/cmd e execute os seguintes comandos:</span>
 
