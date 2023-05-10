@@ -10,11 +10,11 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 <p align="center" dir="auto">⚔Bem-Vindo ao Sistema de Livros mais Famoso da América Latina⚔</p>
 
-<h3>💻 Descrição do Projeto</h3>
+<h2>💻 Descrição do Projeto</h2>
 
 Nesta aplicação, teremos um sistema onde podemos listar livros de diversos temas, descrições e bar_code, criar novos livros, atualizar os temas, descrições e também deletar os livros que não iremos mais utilizar. 
 
-## 🛠 Tecnologias
+<h2>🛠 Tecnologias</h2>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
