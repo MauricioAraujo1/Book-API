@@ -21,18 +21,48 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+<h4 align="center" dir="auto">⚔Bem-Vindo ao Sistema de Deliveries⚔</h4>
 
-## Description
+# 💻 Descrição do Projeto
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Nesta aplicação, teremos de um lado o cliente - que irá se cadastrar e cadastrar itens para serem entregues em determinada localização - e, do outro, o entregador - que poderá pegar ou não determinada entrega para ser realizada. 
 
-## Installation
+## 🛠 Tecnologias
 
-```bash
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [ ] [TypeScript]
+- [ ] [PrismaIO]
+- [ ] [NodeJS]
+- [ ] [JWT]
+- [ ] [Express]
+- [ ] [Docker]
+- [ ] [Postgresql]
+
+
+
+
+## 🚀 Como executar o projeto
+
+<h3>Pré-requisitos</h3>
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: docker, node, e também você precisa instalar o yarn.
+
+
+<span class="pl-c"><span class="pl-c">#</span> Clone este repositório</span>
+```
+https://github.com/MauricioAraujo1/Deliveries
+```
+
+<h3>🧭 Instalação</h3>
+
+<span class="pl-c"><span class="pl-c">#</span> Acesse a pasta do projeto no terminal/cmd e execute os seguintes comandos:</span>
+
+```
+cd Book-API
 $ npm install
 ```
 
-## Running the app
+## Rodando a Aplicação Back-End
 
 ```bash
 # development
@@ -45,7 +75,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Rodando Testes Unitários
 
 ```bash
 # unit tests
@@ -58,14 +88,12 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
+# 🤝 Suporte 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/Deliveries/issues).
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+# 👤 Autor
+**🕵 Maurício Araújo**
 
-## Stay in touch
+* Github: [MauricioAraujo1](https://github.com/MauricioAraujo1)
+* LinkedIn: [@mauricioarj1](https://linkedin.com/in/mauricioarj1)
 
-- Author - [Mauricio Araujo]
-
-## License
-
-Nest is [MIT licensed](LICENSE).
