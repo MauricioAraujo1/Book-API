@@ -21,36 +21,27 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-<h4 align="center" dir="auto">⚔Bem-Vindo ao Sistema de Deliveries⚔</h4>
+<h4 align="center" dir="auto">⚔Bem-Vindo ao Sistema de Livros mais Famoso da América Latina⚔</h4>
 
 # 💻 Descrição do Projeto
 
-Nesta aplicação, teremos de um lado o cliente - que irá se cadastrar e cadastrar itens para serem entregues em determinada localização - e, do outro, o entregador - que poderá pegar ou não determinada entrega para ser realizada. 
+Nesta aplicação, teremos um sistema onde podemos listar livros de diversos temas, descrições e bar_code, criar novos livros, atualizar os temas e descrições e também deletar os livros que não iremos mais utilizar. 
 
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [ ] [TypeScript]
+- [ ] [NestJS]
 - [ ] [PrismaIO]
+- [ ] [TypeScript]
 - [ ] [NodeJS]
-- [ ] [JWT]
-- [ ] [Express]
-- [ ] [Docker]
-- [ ] [Postgresql]
-
-
-
+- [ ] [SQLite]
 
 ## 🚀 Como executar o projeto
 
-<h3>Pré-requisitos</h3>
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: docker, node, e também você precisa instalar o yarn.
-
-
 <span class="pl-c"><span class="pl-c">#</span> Clone este repositório</span>
 ```
-https://github.com/MauricioAraujo1/Deliveries
+https://github.com/MauricioAraujo1/Book-API
 ```
 
 <h3>🧭 Instalação</h3>
