@@ -1,5 +1,5 @@
 <p align="center">
-  <a target="blank"><img src="https://github.com/MauricioAraujo1/Book-API/assets/106497974/1fe347aa-abfd-46eb-8c43-fe8f4fa14f77" width="1000" alt="Book-logo" /></a>
+  <a target="blank"><img src="https://github.com/MauricioAraujo1/Book-API/assets/106497974/1fe347aa-abfd-46eb-8c43-fe8f4fa14f77" width="900" alt="Book-logo" /></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
