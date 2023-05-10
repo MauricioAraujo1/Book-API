@@ -8,7 +8,7 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-<h2 align="center" dir="auto">⚔Bem-Vindo ao Sistema de Livros mais Famoso da América Latina⚔</h2>
+<p align="center" dir="auto">⚔Bem-Vindo ao Sistema de Livros mais Famoso da América Latina⚔</p>
 
 <h3>💻 Descrição do Projeto</h3>
 
