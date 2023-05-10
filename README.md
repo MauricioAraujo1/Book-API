@@ -37,7 +37,7 @@ https://github.com/MauricioAraujo1/Book-API.git
 <span class="pl-c"><span class="pl-c">#</span> Acesse a pasta do projeto no terminal/cmd e execute os seguintes comandos:</span>
 
 ```
-cd Book-API
+$ cd Book-API
 $ npm install
 ```
 
