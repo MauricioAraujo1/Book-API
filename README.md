@@ -25,7 +25,7 @@
 
 # 💻 Descrição do Projeto
 
-Nesta aplicação, teremos um sistema onde podemos listar livros de diversos temas, descrições e bar_code, criar novos livros, atualizar os temas e descrições e também deletar os livros que não iremos mais utilizar. 
+Nesta aplicação, teremos um sistema onde podemos listar livros de diversos temas, descrições e bar_code, criar novos livros, atualizar os temas, descrições e também deletar os livros que não iremos mais utilizar. 
 
 ## 🛠 Tecnologias
 
